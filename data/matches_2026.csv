@@ -13,4 +13,5 @@ match_id,stage,team_1,team_2,score_1,score_2,decided_by,venue,match_date,host_na
 12,Quarterfinal,Norway,England,1,2,After Extra Time,Hard Rock Stadium (Miami),2026-07-11,No,Completed
 13,Semifinal,France,Spain,0,2,Regulation,AT&T Stadium (Arlington/Dallas),2026-07-14,No,Completed
 14,Semifinal,England,Argentina,1,2,Regulation,Mercedes-Benz Stadium (Atlanta),2026-07-15,No,Completed
-15,Final,Spain,Argentina,,,,MetLife Stadium (East Rutherford),2026-07-19,No,Scheduled
+15,Final,Spain,Argentina,1,0,Regulation,MetLife Stadium (East Rutherford),2026-07-19,No,Completed
+16,Third Place Match,France,England,4,6,Regulation,Hard Rock Stadium (Miami),2026-07-18,No,Completed

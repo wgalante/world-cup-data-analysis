@@ -1,0 +1,15 @@
+year,player_name,country,wc_goals,club_before_wc,club_season,club_goals_prior_season,naturalized,birth_country_if_naturalized,source_confidence,notes
+1994,Hristo Stoichkov,Bulgária,6,Barcelona,1993-94,24,Não,N/A,Alta,Artilheiro empatado. 16 gols na liga doméstica e 8 em copas.
+1994,Oleg Salenko,Rússia,6,CD Logroñés,1993-94,16,Não,N/A,Alta,Artilheiro empatado. O recordista de gols numa única partida (5 gols). 16 gols na liga doméstica.
+1998,Davor Šuker,Croácia,6,Real Madrid,1997-98,15,Não,N/A,Alta,10 gols pela liga doméstica e 5 em outras competições.
+2002,Ronaldo,Brasil,8,Internazionale,2001-02,7,Não,N/A,Alta,7 gols em apenas 10 atuações pela liga. Lesões limitaram sua participação na temporada.
+2006,Miroslav Klose,Alemanha,5,Werder Bremen,2005-06,31,Não,Polônia,Alta,Obteve cidadania via repatriação étnica (ascendência familiar direta) e não via naturalização comum por residência sem vínculo. 25 gols na Bundesliga.
+2010,Thomas Müller,Alemanha,5,Bayern de Munique,2009-10,19,Não,N/A,Alta,Vencedor oficial via critério de assistências (3). 13 gols na liga.
+2010,David Villa,Espanha,5,Valencia CF,2009-10,28,Não,N/A,Alta,Empatado em número de gols. 21 gols na La Liga.
+2010,Wesley Sneijder,Holanda,5,Internazionale,2009-10,8,Não,N/A,Alta,Empatado em número de gols. Armador que venceu a Tríplice Coroa pelo clube.
+2010,Diego Forlán,Uruguai,5,Atlético de Madrid,2009-10,28,Não,N/A,Alta,Empatado em número de gols. Campeão da Liga Europa; 18 gols em La Liga.
+2014,James Rodríguez,Colômbia,6,AS Monaco,2013-14,10,Não,N/A,Alta,10 gols contabilizados pelo clube no ano anterior ao torneio.
+2018,Harry Kane,Inglaterra,6,Tottenham Hotspur,2017-18,41,Não,N/A,Alta,Larga vantagem nas penalidades via intervenção de novas regras (VAR). 30 gols na liga.
+2022,Kylian Mbappé,França,8,Paris Saint-Germain,2021-22,39,Não,N/A,Alta,28 gols na liga doméstica. Autor de hat-trick na final.
+2026,Lionel Messi,Argentina,8,Inter Miami CF,2025,37,Não,N/A,Alta,"Fechou a Copa com 8 gols, sem marcar na final (Argentina perdeu por 1 a 0 para a Espanha). Ficou em 2º lugar na artilharia, atrás de Mbappé. 37 gols oficiais computados pelo clube na temporada 2025 (MLS)."
+2026,Kylian Mbappé,França,10,Real Madrid,2025-26,42,Não,N/A,Alta,"Chuteira de Ouro isolada com 10 gols, após marcar 2 na disputa de 3º lugar contra a Inglaterra (6 a 4). Chegou a 22 gols em 3 Copas do Mundo (1998-2026 span), superando a marca histórica de Messi. 42 gols oficiais computados pelo clube na temporada 2025-26 (25 em La Liga)."
