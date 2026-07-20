@@ -53,6 +53,11 @@ validated against primary sources before use (see
 | `TOP_SCORERS` | `top_scorers_1994_2026.csv` | Each edition's top scorer + club-season form immediately before the tournament (1994-2026) |
 | `TEAM_RESULTS` | `team_results_1994_2026.csv` | Every team, every edition, with confederation and furthest stage reached (296 rows, 1994-2026) |
 
+`TOP_SCORERS` has 14 rows (one per edition, 1994-2026) and `TEAM_RESULTS` has 296 rows
+(one per team per edition). Both are intentionally small — hand-compiled and
+independently validated rather than sampled from a large pre-built source. See
+[Methodology](#methodology) for why that trade-off was made deliberately.
+
 ## Key Findings
 
 - **Club form does not predict the Golden Boot.** Ronaldo won it in 2002 with the
@@ -156,10 +161,15 @@ metric that doesn't hold up, that question was dropped. Recognizing when a quest
 doesn't survive scrutiny — and saying so — is part of the same validation discipline
 that produced the correction above.
 
+### Why the datasets are small
+
 This project intentionally does **not** rely on a third-party pre-built dataset —
-the data was compiled and structured specifically for this analysis, which is also
-why the numbers can be fully traced back to their sources in the notebook, and why
-the correction log above is part of the deliverable, not an afterthought.
+14 rows in `TOP_SCORERS`, 296 in `TEAM_RESULTS`. That size is a direct consequence of
+compiling and validating every row by hand rather than importing a large ready-made
+source: a bigger dataset would have meant trusting rows that were never individually
+checked. The trade-off is fewer total rows in exchange for every number being traceable
+back to a primary source, which is also why the correction log above is part of the
+deliverable, not an afterthought.
 
 ## Course Credit
 
